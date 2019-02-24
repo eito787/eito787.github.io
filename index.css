@@ -1,0 +1,17 @@
+header {
+  background-color: white;
+  font-family: cursive;
+  height: auto;
+  width: auto;
+}
+.header-logo{
+  font-size: 17px;
+  float: left;
+}
+.header-list{
+  font-size: 11px;
+  float: left;
+  padding-top: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
